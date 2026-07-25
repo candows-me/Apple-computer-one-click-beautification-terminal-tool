@@ -16,14 +16,15 @@ Mac 终端全自动美化补丁，彩色可视化安装器，国内镜像自选�
 - Oh My Zsh 终端框架
 - Powerlevel10k 高颜值提示符（无交互式配置弹窗）
 
+## 一键恢复Mac原生默认终端
+如果你不想继续使用美化终端，项目内置一键恢复脚本：
+1. 进入项目文件夹
+2. cd Mac-Terminal-Beautify-Patch
+
 ## 使用方法
 1. 克隆本仓库
 ```bash
 git clone https://github.com/你的GitHub用户名/Mac-Terminal-Beautify-Patch.git
 cd Mac-Terminal-Beautify-Patch
 
-## 一键恢复Mac原生默认终端
-如果你不想继续使用美化终端，项目内置一键恢复脚本：
-1. 进入项目文件夹
-```bash
-cd Mac-Terminal-Beautify-Patch
+
