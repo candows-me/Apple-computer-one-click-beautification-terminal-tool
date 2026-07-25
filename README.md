@@ -26,8 +26,5 @@ Mac 终端全自动美化补丁，彩色可视化安装器，国内镜像自选�
 1. 克隆本仓库
 2. 克隆完后执行chmod +x install_.sh
 3. 执行./install.sh
-```bash
-git clone https://github.com/你的GitHub用户名/Mac-Terminal-Beautify-Patch.git
-cd Mac-Terminal-Beautify-Patch
 
 
